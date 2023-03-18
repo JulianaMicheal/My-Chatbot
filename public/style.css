@@ -6,7 +6,7 @@
 }
 body {
      /* line-height: 1.5; */
-     background-image: url("./images/paper-sheet-among-mexican-food.jpg");
+     background-image: url("./images/f6b19d41d2267bbab317b92c0511577f.jpg"); 
      background-repeat: no-repeat;
      background-size:cover;
      background-attachment: fixed;
@@ -15,8 +15,7 @@ body {
 }
 
 #chatContainer {
-  width: 400px;
-  /*background-image: url("./images/Burgerito.jpg");*/
+  width: 1000px;
   background-image: url("./images/2614533 (1).jpg");
   background-repeat: no-repeat;
   background-size:cover;
@@ -42,7 +41,7 @@ body {
   align-items: center;
   justify-content: space-between;
   padding: 16px;
-  border-top: 1px solid #e0e0e0;
+  border-top: 1px solid #fbf8f8;
 }
 
 #inputField {
@@ -51,7 +50,7 @@ body {
   padding: 0 16px;
   border: none;
   border-radius: 20px;
-  background-color: #f0f0f0;
+  background-color: #fdfafa;
   font-size: 16px;
 }
 
@@ -61,7 +60,7 @@ body {
   width: 80px;
   border: none;
   border-radius: 20px;
-  background-color: white;
+  background-color: rgb(249, 249, 249);
   /* color: #ffffff;
   font-size: 16px; */
   cursor: pointer;
@@ -71,7 +70,7 @@ body {
   display: flex;
   justify-content: flex-start;
   margin-bottom: 10px;
-  color: white;
+  color: rgb(20, 19, 19);
   height: 400px;
 }
 
@@ -81,7 +80,7 @@ body {
 
 #bot {
   padding: 15px 20px;
-  background: #023d1a;
+  background: #034115;
   border-radius: 5px;
   max-width: 70%;
 }
