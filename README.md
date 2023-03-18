@@ -37,4 +37,4 @@ The chatbot will ask you to input your name and when you respond, it will return
 
 ## Live Site
 
-To view the food ordering chatbot App, Visit the chatbot site [Chatbot](https://my-chabot.onrender.com) on your device
+To view the food ordering chatbot App, Visit the chatbot site [My Chatbot](https://my-chabot.onrender.com) on your device
