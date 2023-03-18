@@ -99,7 +99,73 @@ body {
 }
 
 
+  
 @media (max-width:992px){
+  body {
+      min-height: 80vh;
+  }
+  .roomSection {
+      width:700px;
+      margin:50px auto;
+}
+#bot {
+  padding: 15px 20px;
+  max-width:40%;
+  
+}
+ #user {
+  padding:2rem;
+  max-width:40%;
+}
+}
+
+@media (max-width:768px){
+  body {
+     min-height: 70vh;
+ }
+ .roomSection{
+  width:600px;
+  margin:40px auto;
+}
+
+#bot {
+  padding: 15px 20px;
+  max-width:40%;
+  
+ 
+}
+ #user {
+  padding:2rem;
+  max-width:40%;
+}
+}
+
+
+@media (max-width:600px){
+  /* body {
+      min-height: 40vh;
+  } */
+  .roomSection{
+      width:400px;
+      margin:60px auto;
+} 
+#bot {
+  padding: 15px 20px;
+  max-width:60%;
+}
+ #user {
+  padding:2rem;
+  max-width:40%;
+}
+}
+
+
+
+
+
+
+
+/*@media (max-width:992px){
     #chatContainer {
         width:700px;
         margin:50px auto;
@@ -126,4 +192,4 @@ body {
         width:300px;
         margin:20px auto;
 } 
-}
+}/*
