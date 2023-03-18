@@ -6,11 +6,11 @@ This is a chatbot for a restaurant that allows users to place an order, cancel o
 
 ---
 
-  Node.js
-  Express.js
-  Express-Session
-  Ejs
-  Socket.io
+  Node.js,
+  Express.js,
+  Express-Session,
+  Ejs,
+  Socket.io and
   Nodemon  
 
 ## Features-
