@@ -137,7 +137,7 @@ app.use(express.json());
                 .join("\n");
               socket.emit(
                 "bot-message",
-                `The menu items are:\n${itemOptions}\nType the item number to add to your order`
+                `The Menu Items:\n${itemOptions}\nType the item number to add to your order`
               );
               break;
               case "97":
@@ -167,7 +167,7 @@ app.use(express.json());
                     });
                     socket.emit(
                       "bot-message",
-                      `Thanks for your order, ${userName}! Your order of ${currentOrder} will be ready shortly.\n1. Place an order\n98. Order history\n0. Cancel order`
+                      `Thank you for your order, ${userName}! Your order of ${currentOrder} will be ready shortly.\n1. Place an order\n98. Order history\n0. Cancel order`
                     );
                     socket.request.session[deviceId].currentOrder = [];
                   } else {
