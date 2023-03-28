@@ -32,13 +32,7 @@ app.set('view  engine')
 app.use(express.static('public'))
 app.use(express.json());
 
-/*const fastFoods = {
-    101: "Fried Chicken",
-    102: "Burger",
-    103: "Pizza",
-    104: "Hot Dog",
-    105: "French Fries",
-  };*/
+
 
   const fastFoods = {
     11: "Burger",
