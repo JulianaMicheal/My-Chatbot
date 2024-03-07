@@ -1,4 +1,4 @@
-# Food Orering Chatbot App History
+# Food Ordering Chatbot App History
 
 This is a chatbot for a restaurant that allows users to place an order, cancel order, check their order history(current or old), and saves their session and chat history. The chatbot is built using Node.js and Socket.IO, and is designed to provide a seamless and convenient experience for customers who want to order food without having to visit the restaurant.
 
